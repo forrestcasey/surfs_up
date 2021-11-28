@@ -1,5 +1,5 @@
 # surfs_up.
-Resources: VS Code, Jupyter Notebook, Sql lite, Sql alchemy, Flask
+Resources: VS Code, Jupyter Lab, Sql lite, Sql Alchemy, Flask
 
 
 ## Overview of the statistical analysis:
