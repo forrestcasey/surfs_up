@@ -23,7 +23,7 @@ W. Avy wants temperature data for the months of June and December in Oahu, in or
 - The difference between the mean values is about 4 degrees
 
 ## Summary  
- - ![Avg_temps](https://user-images.githubusercontent.com/90353852/143796327-4b18ccb5-ecbc-4d17-8d09-94118d9a2e72.png)
+![Avg_temps](https://user-images.githubusercontent.com/90353852/143796327-4b18ccb5-ecbc-4d17-8d09-94118d9a2e72.png)
 
 
  - In finding the average temperatures for the month of June comparative to December, there is a difference in temperature of 3.9 degrees. June's average temps were 74.94 degrees where December's average was at 71.04. This data would suggest that this is a good consistent location to set up shop. The higher standard deviation of December marginally makes this month's temperatures to be more variable, but with this month to month comparison there is some limited eveluation. By creating a bar or line graph comparison of the monthly averages throughout the year, using matplotlib, one could further visualize the conistency and variability, rather than a comparison of just December and June. Each month could be seen in propertion to average temperatures per month. This data could help undestand 
